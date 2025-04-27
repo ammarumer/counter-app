@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("images/count.jpg");
+    background-size: cover;
+}
+
+.btn {
+    padding: 6px 10px;
+    margin: 1px;
+    font:inherit;
+    background: bisque;
+    border: 1px solid bisque;
+    cursor: pointer;
+}
+
+.lower-btn {
+    margin-top: 10px;
+}
+
+h1 {
+    color: darkkhaki;
+}
+
+.prevData {
+    font-weight: bold;
+    color: lightcyan;
+}
